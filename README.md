@@ -203,14 +203,6 @@ dotnet run
 }
 ```
 
----
-
-## 🚀 Deploy na Nuvem
-
-> [Inserir link do ambiente de produção aqui]
-
----
-
 ## 📑 Documentação da API
 
 - Documentação Swagger disponível em:  
@@ -220,8 +212,8 @@ dotnet run
 
 ## 🎥 Vídeos
 
-- **Demonstração completa**: [link para vídeo de até 10 minutos]  
-- **Pitch**: [link para vídeo de até 3 minutos]
+- **Demonstração completa**: https://youtu.be/AHM2PaKM4kY
+- **Pitch**: https://youtu.be/72TR3quH2Dg
 
 ---
 
